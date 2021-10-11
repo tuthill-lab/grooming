@@ -5,6 +5,10 @@ The contents of each script or notebook is briefly described below. Note that ma
 
 ## dimensionality reduction analysis 
 
+* merge_features.ipynb: merge grooming angles and grooming coords from wt flies (5.22.19, 5.24.19, and 5.27.19)
+# manual labels with qualitative grooming observations (height, concentration, 
+# left/right bias, etc)
+
 
 ## dynamic mode decomposition (DMD)
 
